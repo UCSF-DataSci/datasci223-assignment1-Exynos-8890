@@ -49,11 +49,16 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
+
+- Hii my name is Zairen, focus on clinical trial design.
+- Hope to practice more in this course, not just copy and memorize code and docs. I would like to have a good overview in python, knowing it deeper like OOP.
+- Topic I would like to have: ML usage examples in real application.
+- Taylor Swift: Cruel Summer
+<!-- Replace the "Part 1" section with:
 - A brief introduction about yourself (first name only)
 - What you're hoping to get out of this course
 - Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+- A musical recommendation and a link to something about it (song, album, artist) -->
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
