@@ -46,7 +46,7 @@ def write_hash_to_file(hash_value, filename="hash.email"):
     # 1. Open the file in write mode
     # 2. Write the hash value to the file
     # 3. Close the file
-    
+    sys.stdout.write(hash_value)
     with open(filename, 'w') as f:
         f.write(hash_value)
 

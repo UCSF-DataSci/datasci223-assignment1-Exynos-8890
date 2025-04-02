@@ -1,1 +1,1 @@
-python ./email_hasher.py "Zairen.Z@foxmail.com"
+python email_hasher.py "42"
